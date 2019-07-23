@@ -1,5 +1,15 @@
-## John Garrett
+# John Garrett's Portfolio
 
-This is my portfolio to showcase my skills and abilities. If you have any questions please feel free to reach out to me @ jhgarrett1@icloud.com.
+
+## About
+This is my portfolio to showcase my skills and abilities. If you have any questions or would like to discuss employment opportunities please feel free to reach out to me.
+
+## Contact
+Email: jhgarrett1@icloud.com 
+
+LinkedIn: https://www.linkedin.com/in/johnhenrygarrett/
+
+CodePen: https://codepen.io/jhgarrett/
+
 
 Thank you for your time.
