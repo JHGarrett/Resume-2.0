@@ -9,7 +9,6 @@ Email: jhgarrett1@icloud.com
 
 LinkedIn: https://www.linkedin.com/in/johnhenrygarrett/
 
-CodePen: https://codepen.io/jhgarrett/
 
 
 Thank you for your time.
