@@ -1,5 +1,7 @@
 # John Garrett's Portfolio
 
+https://www.johngarrett.dev
+
 
 ## About
 This is my portfolio to showcase my skills and abilities. If you have any questions or would like to discuss employment opportunities please feel free to reach out to me.
